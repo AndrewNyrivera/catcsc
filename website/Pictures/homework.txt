@@ -1,0 +1,32 @@
+Rules:
+65 -90 A - Z
+97 -122 a - z
+48 - 57 0 - 9
+32 = space 
+47 = /
+
+
+A
+n
+d
+r
+e
+w
+Space
+R
+i
+v
+e
+r
+a
+Space 
+m
+m
+/
+d
+d
+/
+y
+y
+y
+y
